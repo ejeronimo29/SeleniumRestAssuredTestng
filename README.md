@@ -20,6 +20,8 @@ For execution:
    lat: Latitude 
    lon: longitude
    apik: Apikey for the service
+   
+- Run the testsuite
 
 Technologies:
 
